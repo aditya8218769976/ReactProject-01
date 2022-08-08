@@ -1,0 +1,18 @@
+.user-card {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 40rem;
+  background: white;
+  border-radius: 5px;
+}
+
+.user-card-ul {
+  list-style: none;
+  padding: 1rem;
+}
+
+.user-card-li {
+  border: 1px solid #ccc;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+}
